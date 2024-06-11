@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves learning new 
 
 Let's collaborate and build something amazing together!
 
-------------------------------------------------------
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oddmaw&show_icons=true&theme=radical)
 
