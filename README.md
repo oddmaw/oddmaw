@@ -1,18 +1,13 @@
 # 👋 Hi, I'm OddMaw!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building exciting projects.
+Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
 
 ## 🔧 Skills & Tools
 - **Languages:**  C/C++, Html, CSS, JavaScript;
 - **Frameworks:** Tailwind CSS;
 - **Tools:** Git,  GitHub, VSCode;
 
-## 📫 How to Reach Me
-- **Email:** Soon
-- **LinkedIn:** [soon](i said -> soon)
-- **Twitter:** [im sure,]()
-
-Let's collaborate and build something amazing together!
+Let's collaborate and build something together!
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oddmaw&show_icons=true&theme=radical)
