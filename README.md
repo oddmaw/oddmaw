@@ -1,4 +1,4 @@
-# 👋 Hi, I'm OddMaw!
+# 👋 Hi!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
 
