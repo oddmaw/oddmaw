@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
 
-## 🔧 Skills & Tools
-- **Languages:**  C/C++, Html, CSS, JavaScript;
-- **Frameworks:** Tailwind CSS;
-- **Tools:** Git,  GitHub, VSCode;
-
 Let's collaborate and build something together!
 
 ---
