@@ -47,8 +47,8 @@ Let's collaborate and build something together!
     
   <img src="https://github-readme-stats.vercel.app/api?username=oddmaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=date_night&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oddmaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=date_night&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
-
 
 <div align="center">
   <picture>
@@ -68,4 +68,8 @@ Let's collaborate and build something together!
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oddmaw&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=oddmaw&theme=radical&border_radius=20)](https://git.io/streak-stats)
+
+
 -->
