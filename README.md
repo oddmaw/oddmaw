@@ -1,6 +1,9 @@
-# 👋 Hi!
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78729&center=true&width=435&lines=%F0%9F%91%8B+Hi+there!;I+code+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
+  Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
 
 Let's collaborate and build something together!
 
