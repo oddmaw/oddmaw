@@ -5,10 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves learning new 
 Let's collaborate and build something together!
 
 ---
-
-
-
-
+# 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -42,13 +39,12 @@ Let's collaborate and build something together!
 </div>
 
 ---
+# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oddmaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oddmaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=oddmaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=date_night&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oddmaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=date_night&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
 
 
 <div align="center">
@@ -63,3 +59,10 @@ Let's collaborate and build something together!
 <div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBsdWs2eDFrNWl3M294anZ2NGd0NDhkYmplYXN4azhpbzdpandocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlM53IThlq0FGcU/giphy.gif"  />
 </div>
+
+
+
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oddmaw&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
+-->
