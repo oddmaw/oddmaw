@@ -53,6 +53,12 @@ Let's collaborate and build something together!
   
 </div>
 
+<!--gif-->
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBsdWs2eDFrNWl3M294anZ2NGd0NDhkYmplYXN4azhpbzdpandocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlM53IThlq0FGcU/giphy.gif"  />
+</div>
+
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oddmaw/oddmaw/output/github-snake-dark.svg" />
@@ -61,10 +67,6 @@ Let's collaborate and build something together!
   </picture>
 </div>
 
-<!--gif-->
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBsdWs2eDFrNWl3M294anZ2NGd0NDhkYmplYXN4azhpbzdpandocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlM53IThlq0FGcU/giphy.gif"  />
-</div>
 
 
 
