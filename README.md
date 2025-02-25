@@ -2,13 +2,14 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78729&center=true&width=435&lines=%F0%9F%91%8B+Hi+there!;I+code+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 </div>
-
+<!--
   Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
-
 Let's collaborate and build something together!
-
----
 # 💻 Tech Stack:
+-->
+
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,18 +27,15 @@ Let's collaborate and build something together!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -45,6 +43,7 @@ Let's collaborate and build something together!
 </div>
 
 ---
+<!--
 # 📊 GitHub Stats:
 <div align="center">
     
@@ -52,6 +51,7 @@ Let's collaborate and build something together!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oddmaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=date_night&hide_border=false" height="150" alt="languages graph"  />
   
 </div>
+-->
 
 <!--gif-->
 <div align="center">
