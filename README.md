@@ -1,7 +1,9 @@
+<!--
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78729&center=true&width=435&lines=%F0%9F%91%8B+Hi+there!;I+code+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 </div>
+-->
 <!--
   Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies and building projects.
 Let's collaborate and build something together!
@@ -42,7 +44,7 @@ Let's collaborate and build something together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
----
+
 <!--
 # 📊 GitHub Stats:
 <div align="center">
@@ -54,10 +56,11 @@ Let's collaborate and build something together!
 -->
 
 <!--gif-->
+<!--
 <div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBsdWs2eDFrNWl3M294anZ2NGd0NDhkYmplYXN4azhpbzdpandocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlM53IThlq0FGcU/giphy.gif"  />
 </div>
-
+-->
 
 <div align="center">
   <picture>
